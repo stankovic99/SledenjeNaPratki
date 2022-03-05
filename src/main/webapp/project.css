@@ -1,0 +1,126 @@
+@charset "ISO-8859-1";
+
+.nadvoresenDiv{
+	width:500px;
+	background-color:#c6c6c6;
+	margin: 0 auto;
+	margin-top:50px;
+	padding:30px;
+	border-radius:10px;  
+}
+
+input{
+	width:97.5%;
+	height:30px;
+	border-radius:5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 0px 0px 0px 10px;
+}
+
+.naslov{
+	color:black;
+	text-align:center;
+	margin-bottom:10px;
+}
+
+button{
+	width:100%;
+	height:40px;
+	border-radius:5px;
+	margin-top:20px;
+	background-color: green;
+	opacity:0.8;
+	color:white;
+	font-size:15px;
+}
+
+.switchButton{
+	width:49.5%;
+	height:40px;
+	border-radius:5px;
+	margin-bottom:20px;
+	background-color: blue;
+	opacity: 0.8;
+	color:white;
+}
+
+label{
+	font-size:20px;
+	color:black;
+}
+
+.nadvoresenDiv2{
+	width:1000px;
+	margin: 0 auto;
+}
+
+#logout{
+	float: right;
+	height:40px;
+	width:10%;
+	border-radius:5px;
+	background-color:red;
+	color:white;
+	font-size:15px;
+}
+
+table, th, td {
+	border: 1px solid;
+	background-color: #bdbdbd;
+	font-size: 17px;
+}
+
+table{
+	width:100%;
+	border-collapse: collapse;
+	border-radius: 10px;
+}
+
+td{
+	text-align:center;
+}
+
+.enterShipment{
+	float:left;
+	background-color:green;
+	opacity: 0.8;
+	width: 20%;
+	height:50px;
+	border-radius:5px;
+	margin-bottom:50px;
+	color:white;
+	font-size: 15px;
+}
+
+.backShipment{
+	float:left;
+	background-color: blue;
+	opacity: 0.8;
+	width: 20%;
+	height:50px;
+	border-radius:5px;
+	margin-bottom:50px;
+	color:white;
+	font-size: 15px;
+}
+
+#delete{
+	background-color: red;
+	opacity:0.9;
+	color:white;
+}
+
+#change{
+	background-color: blue;
+	opacity:0.9;
+	color:white;
+}
+
+body{
+	background-image: url("background.jpg");
+}
+
+h1{
+	color: white;
+}
